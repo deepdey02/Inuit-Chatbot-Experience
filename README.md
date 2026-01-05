@@ -1,4 +1,7 @@
 # Inuit-Chatbot-Experience
+#### Use this link to access the chatbot:
+##### [Inuit Chatbot · Streamlit](https://inuit-chatbot.streamlit.app/)
+
 Luxury Footwear Shopping Assistant
 Key Features Included:
 ✅ All 8 conversation steps
